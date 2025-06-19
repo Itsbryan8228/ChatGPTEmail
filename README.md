@@ -26,5 +26,9 @@ pip install -r requirements.txt
 Then:
 fill out the .env with your creds.
 replace 'youremail@example.com' with your whitelisted email(s)
+then run the script✅
+
+
+also making the subject line 'new' starts a new chat/conversation.
 
 
