@@ -1,4 +1,4 @@
-# GPT Email Bot
+# ChatGPTEmail (ChatGPT Email Bot)
 
 This script that lets you send an email and get a response from ChatGPT using the OpenAI API. It checks a Gmail inbox for new messages, reads the prompt, sends it to OpenAI, and replies back with the result.
 
